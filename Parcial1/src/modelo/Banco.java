@@ -17,6 +17,7 @@ public class Banco {
         this.nombre = nombre;
         this.direccion = direccion;
         this.ciudad = ciudad;
+        this.numSedes = 0;
     }
     
     public String getNombre(){return nombre;}
